@@ -1,2 +1,2 @@
-# Algorithmus-bungen
+# Algorithmus Übungen
 Einige Algorithmusübungen.
